@@ -1,9 +1,0 @@
-import React from 'react'
-
-const HumanDescription = props => {
-    return (
-        <h4>Biba cheloveka</h4>
-    )
-}
-
-export default HumanDescription
