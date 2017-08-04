@@ -1,1 +1,1 @@
-world of warcraft characters histiry build on React.js
+world of warcraft characters history build on React.js
